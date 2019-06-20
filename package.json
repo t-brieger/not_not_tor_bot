@@ -1,0 +1,30 @@
+{
+  "name": "not_not_tor_bot",
+  "version": "0.0.0",
+  "description": "An absolutely frickin ugly client for r/transcribersofreddit",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichbineinNerd/not_not_tor_bot.git"
+  },
+  "keywords": [
+    "reddit",
+    "transcribersofreddit",
+    "transcribe",
+    "transcription",
+    "ugly",
+    "electron"
+  ],
+  "author": "Nerdyyy/Azrael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichbineinNerd/not_not_tor_bot/issues"
+  },
+  "homepage": "https://github.com/ichbineinNerd/not_not_tor_bot#readme",
+  "devDependencies": {
+    "electron": "^5.0.4"
+  }
+}
